@@ -15,7 +15,7 @@
   <h1>steps you need to follow</h1>
   
    
-      fork the repo by clicking in the righside repo buttong
+      fork the repo by clicking in the rightside repo button
    
       make changes in the repo
    
